@@ -1,7 +1,12 @@
 .product-form {
     width: 20rem;
     max-width: 90%;
-    margin: auto;
+    margin-top: 5rem;
+    margin-inline: auto;
+    padding: 2rem 1rem;
+    box-shadow: 0px 0px 11px 0px rgba(0,0,0,0.55);
+    -webkit-box-shadow: 0px 0px 11px 0px rgba(0,0,0,0.55);
+    -moz-box-shadow: 0px 0px 11px 0px rgba(0,0,0,0.55);
 }
 
 .product-item {
@@ -11,6 +16,7 @@
 
 .product__title {
     font-size: 1.2rem;
+    text-transform: capitalize;
     text-align: center;
 }
 

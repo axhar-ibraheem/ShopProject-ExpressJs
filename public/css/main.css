@@ -54,12 +54,17 @@ main {
 .grid {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  gap: 2rem;
   align-items: stretch;
+  margin-inline: auto;
+  width: 1140px;
+  max-width: 90%;
 }
 
 .card {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  flex-grow: 1;
+  margin-inline: auto;
 }
 
 .card__header,
