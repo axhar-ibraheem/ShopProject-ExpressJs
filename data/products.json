@@ -1,1 +1,16 @@
-[{"title":"a book"},{"title":" another book"},{"title":"a table"},{"title":"the time"},{"title":"Data Structure"},{"title":"third book"}]
+[
+  {
+    "title": "a book",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "description": "a great book on the conflict and world politics.",
+    "price": "25",
+    "id": "0.34105272070686143"
+  },
+  {
+    "title": " a second product",
+    "imageUrl": "https://as2.ftcdn.net/v2/jpg/02/35/49/73/1000_F_235497393_4WZid79QLydwLUpWSGqQnP2qLeMEMaaH.jpg",
+    "description": "Hello from the future of technology.",
+    "price": "10",
+    "id": "0.4624180259555941"
+  }
+]
