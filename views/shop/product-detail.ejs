@@ -8,7 +8,7 @@
             <div class="product-detail-image">
                 <img src="<%= product.imageUrl %>" alt="<%= product.title %>">
             </div>
-            <h3> <%= product.price %>$</h3>
+            <h3> $<%= product.price %></h3>
             <p> <%= product.description %></p>
             <form action="/cart" method="post">
                 <button class="btn" type="submit">Add to cart</button>
